@@ -9,7 +9,7 @@ export default function Conteudo() {
     <View style={estilos.containerPrincipal}>
       <ScrollView showsVerticalScrollIndicator={false}>
         
-        {/* Banner Local (Pasta img) */}
+        {}
         <View style={estilos.areaBanner}>
           <Image 
             source={require('../img/brasileirao.png')} 
@@ -40,7 +40,7 @@ export default function Conteudo() {
           destaque="Google News"
         />
 
-        {/* Tags Azuis */}
+        {}
         <View style={estilos.areaTags}>
           <Text style={estilos.txtTag}>LIBERTADORES</Text>
           <Text style={estilos.txtTag}>MERCADO DA BOLA</Text>
