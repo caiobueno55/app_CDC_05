@@ -5,7 +5,7 @@ import CardFutebol from './CardFutebol';
 
 export default function Conteudo() {
   return (
-    // Esta View substitui a necessidade de cabeçalhos/rodapés externos
+ 
     <View style={estilos.containerPrincipal}>
       <ScrollView showsVerticalScrollIndicator={false}>
         
@@ -18,7 +18,7 @@ export default function Conteudo() {
           />
         </View>
 
-        {/* Cards Coloridos */}
+        {}
         <CardFutebol 
           cor="#eaf6e9" 
           icone="https://cdn-icons-png.flaticon.com/512/3670/3670051.png"
