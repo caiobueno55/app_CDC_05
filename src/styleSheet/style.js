@@ -5,7 +5,7 @@ export const estilos = StyleSheet.create({
     flex: 1,
     backgroundColor: '#fff',
     paddingHorizontal: 15,
-    paddingTop: 40, // Espaço para não cobrir a barra de status do celular
+    paddingTop: 40, 
   },
   areaBanner: {
     alignItems: 'center',
